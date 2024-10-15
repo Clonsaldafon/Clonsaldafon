@@ -5,4 +5,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clonsaldafon&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clonsaldafon&theme=dark&layout=compact)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/bezmelnitsin?theme=dark&font=Sintony)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Clonsaldafon?theme=dark&font=Sintony)
